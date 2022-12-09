@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seenivasababu
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Full stack technology
-- 💞️ I’m looking to collaborate on to serve for great common cause
+- 💞️ I’m looking forward to create Useful application for Students & Digital business.
 - 📫 How to reach me bgseenivasababu@gmail.com
 
 <!---
